@@ -18,7 +18,7 @@ I enjoy creating user-friendly applications and solving complex problems through
 
 ## 📂 Projects  
 
-### 1. [YourAnimeList](#)  
+### 1. [YourAnimeList](https://github.com/refqaxa/YourAnimeList)  
 **Technologies**: .NET, C#, ASP.NET MVC, SQL Server  
 **Description**:  
 An MVC application where users can manage a personalized anime list. Users can add, edit, or delete their anime lists and the animes they added to the website, while admins have full access to manage all entries of animes.  
@@ -29,10 +29,10 @@ An MVC application where users can manage a personalized anime list. Users can a
 
 ---
 
-### 2. [Coral-Yachts](#)  
+### 2. [Coral-Yachts](https://github.com/refqaxa/Coral-Yachts)  
 **Technologies**: PHP, MySQL, HTML, CSS, Bootstrap  
 **Description**:  
-A responsive website for reserving yachts. Includes a login system and a CMS for moderators to manage reservations and content.  
+A responsive website for reserving yachts. Includes a login system and a CMS for moderators to manage reservations and content. Built with some help with some classmate.  
 **Features**:  
 - User authentication.  
 - Reservation system.  
@@ -40,28 +40,7 @@ A responsive website for reserving yachts. Includes a login system and a CMS for
 
 ---
 
-### 3. [Bookstore](#)  
-**Technologies**: .NET, C#, ASP.NET MVC  
-**Description**:  
-A detailed web application for managing a virtual bookstore. Users can browse, search, and purchase books. Admins can manage book listings, orders, and inventory.  
-**Features**:  
-- Comprehensive user roles (admin and customer).  
-- Dynamic book catalog with search and filtering.  
-- Order and inventory management.  
-
----
-
-### 4. [JokeApi Maui App](#)  
-**Technologies**: .NET, C#, MAUI  
-**Description**:  
-A cross-platform mobile application that fetches and displays random jokes using an external API.  
-**Features**:  
-- Simple and intuitive user interface.  
-- API integration for fetching jokes.  
-
----
-
-### 5. [WeatherForecast](#)  
+### 3. [WeatherForecast](https://github.com/refqaxa/Weatherforecast)  
 **Technologies**: .NET, C#, Console Application  
 **Description**:  
 A console application that retrieves real-time weather data using an API. Includes a translator feature and saves weather reports to a local file.  
@@ -72,7 +51,7 @@ A console application that retrieves real-time weather data using an API. Includ
 
 ---
 
-### 6. [Randomizer](#)  
+### 4. [Randomizer](#)  
 **Technologies**: .NET, C#, ASP.NET  
 **Description**:  
 A small-scale web project that generates random results based on user input. Ideal for quick decision-making or entertainment purposes.  
@@ -82,7 +61,7 @@ A small-scale web project that generates random results based on user input. Ide
 
 ---
 
-### 7. [Pottenbakker](#)  
+### 5. [Pottenbakker](#)  
 **Technologies**: .NET, C#, Console Application  
 **Description**:  
 A basic console application offering a multiple-choice interface. Designed to practice input handling and logic building.  

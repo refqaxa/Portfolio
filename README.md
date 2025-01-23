@@ -51,27 +51,21 @@ A console application that retrieves real-time weather data using an API. Includ
 
 ---
 
-### 4. [Randomizer](#)  
+### 4. [Randomizer](https://github.com/refqaxa/Randomizer)  
 **Technologies**: .NET, C#, ASP.NET  
 **Description**:  
-A small-scale web project that generates random results based on user input. Ideal for quick decision-making or entertainment purposes.  
+A small-scale web project that generates random results based on user input built with scrum team. 
+Ideal for quick decision-making or entertainment purposes.  
 **Features**:  
 - Dynamic randomization logic.  
 - Lightweight and user-friendly interface.  
 
 ---
 
-### 5. [Pottenbakker](#)  
-**Technologies**: .NET, C#, Console Application  
-**Description**:  
-A basic console application offering a multiple-choice interface. Designed to practice input handling and logic building.  
-
----
-
 ## 📬 Contact  
 - **Email**: [bashirrefqa@gmail.com](mailto:bashirrefqa@gmail.com)  
 - **LinkedIn**: [Refqa Bashir](https://www.linkedin.com/in/refqa-bashir-aa2932334/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/refqaxa)  
+- **GitHub**: [Refqa](https://github.com/refqaxa)  
 
 ---
 

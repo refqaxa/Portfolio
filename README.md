@@ -64,8 +64,7 @@ Ideal for quick decision-making or entertainment purposes.
 
 ## 📬 Contact  
 - **Email**: [bashirrefqa@gmail.com](mailto:bashirrefqa@gmail.com)  
-- **LinkedIn**: [Refqa Bashir](https://www.linkedin.com/in/refqa-bashir-aa2932334/)  
-- **GitHub**: [Refqa](https://github.com/refqaxa)  
+- **LinkedIn**: [Refqa Bashir](https://www.linkedin.com/in/refqa-bashir-aa2932334/) 
 
 ---
 

@@ -1,21 +1,22 @@
-# Refqa Bashir - Software Developer Portfolio  
+# Refqa Bashir - Portfolio  
 
 ## 👋 About Me  
-I am a passionate **fourth-year MBO 4 software development student** based in the Netherlands, specializing in web and software development. My skills include working with **.NET (C#)**, **PHP**, and **Python**, and I have experience building dynamic web applications, console apps, and mobile solutions.  
-I enjoy creating user-friendly applications and solving complex problems through code. 
+I am a passionate **Software developer graduate** based in the Netherlands, specializing in web and software development. My skills include working with **.NET (C#)**, **PHP**, and **Python**, and I have experience in fixing bugs in frontend/backend applications and building dynamic web applications, console apps, and mobile solutions.  
+I enjoy creating user-friendly applications and solving complex problems through code but also working in a team and communicating to exchange experience and solutions to problems.
+I've done two internships of each half year, and I've gained a lot of experience working in a company with a team, communicating and working together, and releasing applications.
 
 ---
 
 ## 🛠️ Skills  
-- **Programming Languages**: C#, PHP, Python  
-- **Frameworks & Tools**: .NET, ASP.NET MVC, React, Entity Framework, XXAMP  
-- **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap  
-- **Database Management**: SQL Server, MySQL  
-- **Version Control**: Git  
+- **Programming Languages**: C#, PHP, Python 
+- **Frameworks & Tools**: .NET, ASP.NET MVC, React, Entity Framework, Laminas, XXAMP
+- **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap, Vue Quasar
+- **Database Management**: SQL Server, MySQL, GraphQL
+- **Version Control**: Git, GitLab
 
 ---
 
-## 📂 Projects  
+## 📂 Projects
 
 ### 1. [Internship tool](https://github.com/refqaxa/Internship_tool)  
 **Technologies**: .NET Core, C#, React (Vite), SQL Server  
